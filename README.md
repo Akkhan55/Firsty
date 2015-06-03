@@ -1,2 +1,3 @@
 # Firsty
-A Simple java program
+
+Demo for setting up my github
