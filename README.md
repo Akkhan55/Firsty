@@ -1,2 +1,2 @@
 # Firsty
-A Simple java programs!!
+A Simple java program!!
